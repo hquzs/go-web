@@ -1,0 +1,10 @@
+LogLevel: Info
+ConnectionLimit: 128
+HTTPConfig:
+  Port: 9090
+  Host: 127.0.0.1
+TLS:
+  Enable: false
+  CA: ""
+  Cert: ""
+  Key: ""
